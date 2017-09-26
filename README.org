@@ -1,0 +1,8 @@
+* FuncKit
+
+This is an implementation of basic functional programming concepts in swift.
+It's also a living documentation of my journey into functional programming. I
+found I use these snippets constantly in my different projects, so I think it's
+a good idea to make a framework out of it. Easier for me to improve upon.
+
+For usage detail, checkout the unit tests.
